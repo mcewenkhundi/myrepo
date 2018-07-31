@@ -4,3 +4,5 @@ git configuration
 rechecking how git works
 
 This is a line from Rstudio
+
+This is the second line from Rstudio
